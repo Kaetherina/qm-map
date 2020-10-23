@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"qm-map\/Floor1\/floor1.json"
+                 "value":"Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
