@@ -120,7 +120,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/floortileset.png",
+         "image":"..\/tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -133,7 +133,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/tilesets_deviant_milkian_1.png",
+         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -146,7 +146,7 @@
         {
          "columns":18,
          "firstgid":321,
-         "image":"..\/building.jpg",
+         "image":"..\/tilesets\/building.jpg",
          "imageheight":320,
          "imagewidth":576,
          "margin":0,
@@ -159,7 +159,7 @@
         {
          "columns":8,
          "firstgid":501,
-         "image":"..\/garden.png",
+         "image":"..\/tilesets\/garden.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -172,7 +172,7 @@
         {
          "columns":16,
          "firstgid":565,
-         "image":"..\/interior.png",
+         "image":"..\/tilesets\/interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -198,7 +198,7 @@
         {
          "columns":64,
          "firstgid":822,
-         "image":"..\/dungeon.png",
+         "image":"..\/tilesets\/dungeon.png",
          "imageheight":1536,
          "imagewidth":2048,
          "margin":0,
@@ -211,7 +211,7 @@
         {
          "columns":24,
          "firstgid":3894,
-         "image":"..\/autumn.png",
+         "image":"..\/tilesets\/autumn.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
