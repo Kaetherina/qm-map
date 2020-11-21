@@ -96,7 +96,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1078,7 +1078,7 @@
         {
          "columns":24,
          "firstgid":1078,
-         "image":"..\/..\/Pictures\/desks.png",
+         "image":"tilesets\/desks.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
