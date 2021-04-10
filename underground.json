@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/F1SEufOp7o8"
+                 "value":"https:\/\/www.youtube.com\/embed\/F1SEufOp7o8?autoplay=1"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
