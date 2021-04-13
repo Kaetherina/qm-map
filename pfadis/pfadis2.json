@@ -474,7 +474,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1208,7 +1208,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"tilesets\/floortileset.png",
+         "image":"..\/tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1240,7 +1240,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"tilesets\/garden.png",
+         "image":"..\/tilesets\/garden.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1253,7 +1253,7 @@
         {
          "columns":16,
          "firstgid":385,
-         "image":"tilesets\/trees.png",
+         "image":"..\/tilesets\/trees.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1339,7 +1339,7 @@
         {
          "columns":16,
          "firstgid":641,
-         "image":"tilesets\/interior.png",
+         "image":"..\/tilesets\/interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1497,7 +1497,7 @@
         {
          "columns":64,
          "firstgid":897,
-         "image":"tilesets\/dungeon.png",
+         "image":"..\/tilesets\/dungeon.png",
          "imageheight":1536,
          "imagewidth":2048,
          "margin":0,
@@ -1510,7 +1510,7 @@
         {
          "columns":18,
          "firstgid":3969,
-         "image":"tilesets\/building.jpg",
+         "image":"..\/tilesets\/building.jpg",
          "imageheight":320,
          "imagewidth":576,
          "margin":0,
@@ -1523,7 +1523,7 @@
         {
          "columns":24,
          "firstgid":4149,
-         "image":"tilesets\/autumn.png",
+         "image":"..\/tilesets\/autumn.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -1536,7 +1536,7 @@
         {
          "columns":16,
          "firstgid":4725,
-         "image":"tilesets\/tents.png",
+         "image":"..\/tilesets\/tents.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2054,7 +2054,7 @@
         {
          "columns":20,
          "firstgid":4981,
-         "image":"tilesets\/Jurte20x20.png",
+         "image":"..\/tilesets\/Jurte20x20.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
@@ -4552,7 +4552,7 @@
         {
          "columns":16,
          "firstgid":5381,
-         "image":"tilesets\/letters.png",
+         "image":"..\/tilesets\/letters.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
