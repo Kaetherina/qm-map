@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/pfadis2.json#jurte-portal-start"
+                 "value":"pfadis2.json#jurte-portal-start"
                 }],
          "type":"tilelayer",
          "visible":true,
