@@ -150,7 +150,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"tilesets\/floortileset.png",
+         "image":"..\/tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -173,7 +173,7 @@
         {
          "columns":8,
          "firstgid":65,
-         "image":"tilesets\/garden.png",
+         "image":"..\/tilesets\/garden.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -186,7 +186,7 @@
         {
          "columns":16,
          "firstgid":129,
-         "image":"tilesets\/interior.png",
+         "image":"..\/tilesets\/interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -344,7 +344,7 @@
         {
          "columns":64,
          "firstgid":385,
-         "image":"tilesets\/dungeon.png",
+         "image":"..\/tilesets\/dungeon.png",
          "imageheight":1536,
          "imagewidth":2048,
          "margin":0,
@@ -357,7 +357,7 @@
         {
          "columns":18,
          "firstgid":3457,
-         "image":"tilesets\/building.jpg",
+         "image":"..\/tilesets\/building.jpg",
          "imageheight":320,
          "imagewidth":576,
          "margin":0,
@@ -370,7 +370,7 @@
         {
          "columns":11,
          "firstgid":3637,
-         "image":"tilesets\/shop.png",
+         "image":"..\/tilesets\/shop.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -383,7 +383,7 @@
         {
          "columns":20,
          "firstgid":3758,
-         "image":"tilesets\/Jurte20x20.png",
+         "image":"..\/tilesets\/Jurte20x20.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,

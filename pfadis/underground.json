@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/pfadis2.json#portal-wald-ug-arrive"
+                 "value":"pfadis2.json#portal-wald-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/pfadis2.json#portal-start-ug-arrive"
+                 "value":"pfadis2.json#portal-start-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,7 +193,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/pfadis2.json#portal-zelt-ug-arrive"
+                 "value":"pfadis2.json#portal-zelt-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,7 +211,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/pfadis2.json#portal-jurte-ug-arrive"
+                 "value":"pfadis2.json#portal-jurte-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/pfadis2.json#portal-stein-ug-arrive"
+                 "value":"pfadis2.json#portal-stein-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -270,7 +270,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1004,7 +1004,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"tilesets\/floortileset.png",
+         "image":"..\/tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1036,7 +1036,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"tilesets\/garden.png",
+         "image":"..\/tilesets\/garden.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1049,7 +1049,7 @@
         {
          "columns":16,
          "firstgid":385,
-         "image":"tilesets\/trees.png",
+         "image":"..\/tilesets\/trees.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1062,7 +1062,7 @@
         {
          "columns":16,
          "firstgid":641,
-         "image":"tilesets\/interior.png",
+         "image":"..\/tilesets\/interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1220,7 +1220,7 @@
         {
          "columns":64,
          "firstgid":897,
-         "image":"tilesets\/dungeon.png",
+         "image":"..\/tilesets\/dungeon.png",
          "imageheight":1536,
          "imagewidth":2048,
          "margin":0,
@@ -1233,7 +1233,7 @@
         {
          "columns":64,
          "firstgid":3969,
-         "image":"tilesets\/dungeon.png",
+         "image":"..\/tilesets\/dungeon.png",
          "imageheight":1536,
          "imagewidth":2048,
          "margin":0,
@@ -28895,7 +28895,7 @@
         {
          "columns":18,
          "firstgid":7041,
-         "image":"tilesets\/building.jpg",
+         "image":"..\/tilesets\/building.jpg",
          "imageheight":320,
          "imagewidth":576,
          "margin":0,
@@ -28908,7 +28908,7 @@
         {
          "columns":24,
          "firstgid":7221,
-         "image":"tilesets\/autumn.png",
+         "image":"..\/tilesets\/autumn.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -28921,7 +28921,7 @@
         {
          "columns":16,
          "firstgid":7797,
-         "image":"tilesets\/tents.png",
+         "image":"..\/tilesets\/tents.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,

@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/jurte.json"
+                 "value":"jurte.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/schatzsuche.json#start"
+                 "value":"schatzsuche.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,7 +283,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/underground.json#portal-wald-ug-arrive"
+                 "value":"underground.json#portal-wald-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/underground.json#portal-start-ug-arrive"
+                 "value":"underground.json#portal-start-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,7 +319,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/underground.json#portal-zelt-ug-arrive"
+                 "value":"underground.json#portal-zelt-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -337,7 +337,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/underground.json#portal-jurte-ug-arrive"
+                 "value":"underground.json#portal-jurte-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,7 +355,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/kaetherina.github.io\/qm-map\/underground.json#portal-stein-ug-arrive"
+                 "value":"underground.json#portal-stein-ug-arrive"
                 }],
          "type":"tilelayer",
          "visible":true,
