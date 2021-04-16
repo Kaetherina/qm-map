@@ -124,7 +124,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":41,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":41,
          "x":0,
          "y":0
