@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/pfadis\/schatzsuche.json#houseCellarEntry"
+                 "value":"..\/pfadis\/schatzsuche.json#entry_from_house_cellar"
                 }],
          "type":"tilelayer",
          "visible":true,
