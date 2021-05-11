@@ -25,7 +25,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"office_inside.json#entry_from_street"
+                 "value":"..\/office\/office_inside.json#entry_from_street"
                 }],
          "type":"tilelayer",
          "visible":true,

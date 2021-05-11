@@ -97,7 +97,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"street.json#entry_from_office_inside"
+                 "value":"..\/netlight\/street.json#entry_from_office_inside"
                 }],
          "type":"tilelayer",
          "visible":true,
