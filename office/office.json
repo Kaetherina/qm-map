@@ -51,6 +51,12 @@
          "id":19,
          "name":"entry_from_office_inside",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
